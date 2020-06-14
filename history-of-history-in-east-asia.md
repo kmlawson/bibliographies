@@ -251,7 +251,7 @@ Csikszentmihalyi, Mark, and Michael Nylan. 'Constructing Lineages and Inventing 
 
 Cutter, Robert Joe. 'Shishuo Xinyu and the Death of Cao Zhang'. *Journal of the American Oriental Society* 129, no. 3 (2009): 403--11.
 
-Davis, Richard. *Historical Records of the Five Dynasties*. New York: Columbia University Press, 2007.
+Davis, Richard trans. *Historical Records of the Five Dynasties*. New York: Columbia University Press, 2007.
 
 Davis, Richard L. 'Chaste and Filial Women in Chinese Historical Writings of the Eleventh Century'. *Journal of the American Oriental Society* 121, no. 2 (2001): 204--18. <https://doi.org/10.2307/606561>.
 
@@ -345,6 +345,8 @@ Farris, William Wayne. *Sacred Texts and Buried Treasures: Issues in the Histori
 
 Feldherr, Andrew, and Grant Hardy, eds. *The Oxford History of Historical Writing: Volume 1: Beginnings to AD 600*. Reprint edition. Oxford: Oxford University Press, 2015.
 
+Fischer, Paul, trans. *Shizi: China’s First Syncretist*. Columbia University Press, 2012.
+
 Fogel, Canada Research Chair and Professor of History Joshua A., and Joshua A. Fogel. *The Nanjing Massacre in History and Historiography*. University of California Press, 2000.
 
 Fogel, Joshua A. *Japanese Historiography and the Gold Seal of 57 C.E.: Relic, Text, Object, Fake*. BRILL, 2013.
@@ -382,6 +384,8 @@ Gardner, Charles Sidney. *Chinese Traditional Historiography*. Harvard Universit
 Gayle, Curtis Anderson. *Marxist History and Postwar Japanese Nationalism*. Routledge, 2003.
 
 Ge, Zhaoguang. 'The Evolution of a World Consciousness in Traditional Chinese Historiography'. *Global Intellectual History* 0, no. 0 (16 March 2020): 1--19. <https://doi.org/10.1080/23801883.2020.1738651>.
+
+Gentz, Joachim, and Dirk Meyer, eds. *Literary Forms of Argument in Early China*. BRILL, 2015.
 
 Gibbs, Donald A., Yun-chen Li, and Christopher C. Rand. 中國現代文學目錄. Harvard Univ Asia Center, 1975.
 
@@ -661,9 +665,9 @@ Lidin, Olof G. 'Ogyū Sorai's Civil Society (Seidan)'. *Japan Review*, no. 5 (19
 
 Lim, Jie-hyun. 'Victimhood Nationalism in Contested Memories: National Mourning and Global Accountability'. In *Memory in a Global Age  Discourses, Practices and Trajectories*, edited by Sebastian Conrad and Aleida Assmann, 138--62. Palgrave, 2010.
 
-Link, Arthur E., and Shih Seng-Yu. 'Shih Seng-Yu and His Writings'. *Journal of the American Oriental Society* 80, no. 1 (1960): 17--43. <https://doi.org/10.2307/595264>.
+Lim, Louisa. *The People's Republic of Amnesia: Tiananmen Revisited*. Oxford University Press, 2014.
 
-*Literary Forms of Argument in Early China*. BRILL, 2015.
+Link, Arthur E., and Shih Seng-Yu. 'Shih Seng-Yu and His Writings'. *Journal of the American Oriental Society* 80, no. 1 (1960): 17--43. <https://doi.org/10.2307/595264>.
 
 Littrup, Leif. 'World History with Chinese Characteristics'. *Culture and History* 5 (1989).
 
@@ -748,8 +752,6 @@ McMullen, David. *State and Scholars in T'ang China*. Cambridge University Press
 Mehl, Margaret. *History and the State in Nineteenth-Century Japan*. Macmillan, 1998.
 
 ---------. 'The Mid‐Meiji "History Boom": Professionalization of Historical Scholarship and Growing Pains of an Emerging Academic Discipline'. *Japan Forum* 10, no. 1 (1 January 1998): 67--83.
-
-*Memory in Medieval China: Text, Ritual, and Community*. BRILL, 2018.
 
 Milburn, Olivia. *The Spring and Autumn Annals of Master Yan*. Leiden: BRILL, 2016.
 
@@ -977,8 +979,6 @@ Shirane, Haruo. *Early Modern Japanese Literature: An Anthology, 1600-1900 (Abri
 
 ---------. *Traditional Japanese Literature: An Anthology, Beginnings to 1600*. Columbia University Press, 2008.
 
-*Shizi: China's First Syncretist*. Columbia University Press, 2012.
-
 Shou, Chen. *Empresses and Consorts: Selections from Chen Shou's Records of the Three States*. Edited by Robert Joe Cutter and William Gordon Crowell. Annotated edition edition. Honolulu: University of Hawai'i Press, 1999.
 
 Shultz, Edward J. 'An Introduction to the "Samguk Sagi"'. *Korean Studies* 28 (2004): 1--13.
@@ -1027,6 +1027,8 @@ Suematsu, Yasukazu. *Introduction to the Ri Dynasty Annals*, 1958.
 
 Swartz, Wendy, Robert Ford Campany, Yang Lu, and Jessey Choo. *Early Medieval China: A Sourcebook*. Columbia University Press, 2014.
 
+Swarz, Wendy, and Robert Ford Campany, eds. *Memory in Medieval China: Text, Ritual, and Community*. BRILL, 2018.
+
 Tanaka, Stefan. *Japan's Orient: Rendering Pasts into History*. New Ed edition. Berkeley: University of California Press, 1995.
 
 ---------. *New Times in Modern Japan*. Princeton University Press, 2009.
@@ -1069,7 +1071,7 @@ Twitchett, Denis Crispin. *The Historian, His Readers, and the Passage of Time: 
 
 Tyler, Royall, trans. *The Tale of the Heike*. Penguin UK, 2018.
 
-Unger, Jonathan. *Using the Past to Serve the Present: Historiography and Politics in Contemporary China: Historiography and Politics in Contemporary China*. Routledge, 2015.
+Unger, Jonathan ed. *Using the Past to Serve the Present: Historiography and Politics in Contemporary China: Historiography and Politics in Contemporary China*. Routledge, 2015.
 
 Uno, Kathleen. 'Women's History in Japan: A Review Essay'. Edited by Sharon L. Sievers and Mikiso Hane. *NWSA Journal* 2, no. 1 (1990): 112--19.
 
@@ -1144,6 +1146,8 @@ Webb, Herschel. 'What Is the Dai Nihon Shi?' *The Journal of Asian Studies* 19, 
 Weerdt, Hilde Godelieve Dominique De. *Competition Over Content: Negotiating Standards for the Civil Service Examinations in Imperial China (1127-1279)*. Harvard University Asia Center, 2007.
 
 Weigelin-Schwiedrzik, Susanne. *Broken Narratives: Post-Cold War History and Identity in Europe and East Asia*. BRILL, 2014.
+
+---------. 'Back to the Past: Historical Revisionism in Chinese Communist Historiography'. In *Rethinking China in the 1950s*, edited by Mechthild Leutner. LIT Verlag Münster, 2007.
 
 ---------. 'Trauma and Memory: The Case of the Great Famine in the People's Republic of China (1959-1961)'. *Historiography East and West* 1, no. 1 (1 January 2003): 39--67. <https://doi.org/10.1163/157018603763585249>.
 
@@ -1276,7 +1280,7 @@ Zurndorfer, Harriet Thelma. *Chinese Women in the Imperial Past: New Perspective
 
 *Wudai Shiji* (1072?)
 
-- Richard L. Davis *Historical Records of the Five Dynasties* (2004)
+- Richard L. Davis trans. *Historical Records of the Five Dynasties* (2004)
 
 *Sanguo Yanyi*
 
