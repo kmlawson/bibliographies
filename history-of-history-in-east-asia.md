@@ -27,9 +27,11 @@ Ch 30 Chinese Historical Writing since 1949
 Ch 31 Japanese Historical Writing  
 Ch 32 Historians and Historical Writing in Modern Korea  
 
-## Works on East Asian Historiography
+## 1. Works on East Asian Historiography
 
-Adolphson, Mikael S., and Anne Commons, eds. *Lovable Losers: The Heike in Action and Memory*. Electronic book (temporary access enabled until 30th June 2020). De Gruyter: University of Hawaii Press, 2015.
+Adolphson, Mikael S., and Anne Commons, eds. *Lovable Losers: The Heike in Action and Memory*. De Gruyter: University of Hawaii Press, 2015.
+
+Akita, George. 'Trends in Modern Japanese Political History: The `Positivist' Studies'. *Monumenta Nipponica* 37, no. 4 (1982): 497--521. <https://doi.org/10.2307/2384168>.
 
 Allan, Sarah. *Buried Ideas: Legends of Abdication and Ideal Government in Early Chinese Bamboo-Slip Manuscripts*. SUNY Press, 2015.
 
@@ -93,8 +95,6 @@ Bernstein, Gail Lee. *Japanese Marxist: A Portrait of Kawakami Hajime, 1879-1946
 
 ---------. *Recreating Japanese Women, 1600-1945*. University of California Press, 1991.
 
-Besio, Kimberly Ann. *Three Kingdoms and Chinese Culture*. SUNY Press, 2012.
-
 Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. SUNY Press, 2007.
 
 Best, Jonathan W. 'Notes and Questions Concerning the "Samguk Sagi"'s Chronology of Paekche's Kings Chŏnji, Kuisin, and Piyu'. *Korean Studies* 3 (1979): 125--34.
@@ -118,6 +118,8 @@ Bonner, Joey. *Wang Kuo-Wei: An Intellectual Biography*. Harvard University Pres
 Boot, W. J., Daiki Takayama, and SpringerLink (Online service), eds. *Tetsugaku Companion to Ogyū Sorai*. Tetsugaku Companions to Japanese Philosophy, volume 2. Cham, Switzerland: Springer, 2019.
 
 Borton, Hugh. 'A Survey of Japanese Historiography'. *The American Historical Review* 43, no. 3 (1938): 489--99. <https://doi.org/10.2307/1865611>.
+
+Bronson, Adam. *One Hundred Million Philosophers: Science of Thought and the Culture of Democracy in Postwar Japan*. University of Hawaiʻi Press, 2016.
 
 Brown, Delmer M, and Ichirô Ishida. *The Future and the Past: A Translation and Study of the Gukanshô, an Interpretative History of Japan Written in 1219*. Berkeley; Los Angeles; London: University of California Press, 1979.
 
@@ -283,7 +285,7 @@ Dirlik, Arif. *Anarchism in the Chinese Revolution*. University of California Pr
 
 ---------. 'The Problem of Class Viewpoint versus Historicism in Chinese Historiography'. *Modern China* 3, no. 4 (1977): 465--88.
 
-Doleželová-Velingerová, Milena, Rudolf G. Wagner, and SpringerLink (Online service), eds. *Chinese Encyclopaedias of New Global Knowledge (1870-1930): Changing Ways of Thought*. Transcultural Research-- Heidelberg Studies on Asia and Europe in a Global Context. Berlin: Springer, 2013.
+Doleželová-Velingerová, Milena, Rudolf G. Wagner, and SpringerLink (Online service), eds. *Chinese Encyclopaedias of New Global Knowledge (1870-1930): Changing Ways of Thought*. Berlin: Springer, 2013.
 
 Dong, Hongyuan. *A History of the Chinese Language*. Routledge, 2014.
 
@@ -385,7 +387,15 @@ Gibbs, Donald A., Yun-chen Li, and Christopher C. Rand. 中國現代文學目錄
 
 Glosser, Susan L. *Chinese Visions of Family and State, 1915-1953*. University of California Press, 2003.
 
-Gluck, Carol. 'The People in History: Recent Trends in Japanese Historiography'. *The Journal of Asian Studies* 38, no. 1 (1978): 25--50. <https://doi.org/10.2307/2054236>.
+Gluck, Carol. *Japan's Modern Myths: Ideology in the Late Meiji Period*. Reprint. Princeton University Press, 1987.
+
+---------. 'The People in History: Recent Trends in Japanese Historiography'. *The Journal of Asian Studies* 38, no. 1 (1978): 25--50. <https://doi.org/10.2307/2054236>.
+
+---------. 'The "End" of the Postwar: Japan at the Turn of the Millennium'. *Public Culture* 10, no. 1 (1 January 1997): 1--23. 
+
+---------. 'Patterns of Change: A "Grand Unified Theory" of Japanese History'. *Bulletin of the American Academy of Arts and Sciences* 48, no. 6 (1995): 35--54. <https://doi.org/10.2307/3824204>.
+
+---------. 'The Idea of Showa'. *Daedalus* 119, no. 3 (1990): 1--26.
 
 Goldin, Paul R. 'Ban Zhao in Her Time and in Ours'. In *After Confucius*, 112--18. Studies in Early Chinese Philosophy. University of Hawai'i Press, 2005.
 
@@ -416,6 +426,8 @@ Hakuseki, Arai. *Lessons from History: The Tokushi Yoron*. First Edition edition
 Hall, Robert King. *Kokutai No Hongi: Cardinal Principles of the National Entity of Japan*. Harvard University Press, 1949.
 
 Hansen, Valerie. 'Inscriptions: Historical Sources for the Song'. *Bulletin of Song-Yuan Studies* 19 (1987): 17--25.
+
+Hara, Katsuro. *An Introduction to the History of Japan*. New York & London: Putnam, 1920.
 
 Hardy, Grant. 'Can an Ancient Chinese Historian Contribute to Modern Western Theory? The Multiple Narratives of Ssu-Ma Ch'ien'. *History and Theory* 33, no. 1 (1994): 20--38. <https://doi.org/10.2307/2505650>.
 
@@ -511,10 +523,6 @@ Igarashi, Yoshikuni. *Bodies of Memory: Narratives of War in Postwar Japanese Cu
 
 Iggers, Georg G, Q. Edward Wang, and Supriya Mukherjee. *A Global History of Modern Historiography*. Harlow, England; New York: Pearson Longman, 2008.
 
----------. *A Global History of Modern Historiography*. Harlow, England; New York: Pearson Longman, 2008.
-
-Iggers, Georg G., Q. Edward Wang, and Supriya Mukherjee. *A Global History of Modern Historiography*. Taylor & Francis, 2016.
-
 Inglis, Alister David. *Hong Mai's Record of the Listener and Its Song Dynasty Context*. SUNY Press, n.d.
 
 Jamieson, John Charles. *The Samguk Sagi and the Unification Wars*. University of California, Berkeley., 1969.
@@ -581,8 +589,6 @@ Knechtges, David R., and Tong Xiao. *Wen Xuan or Selections of Refined Literatur
 
 Knoblock, John, and Jeffrey Riegel, trans. *The Annals of Lü Buwei*. 1 edition. Stanford, Calif: Stanford University Press, 2001.
 
-Knoblock, John, and Jeffrey Riegel, trans. *The Annals of Lü Buwei*. 1 edition. Stanford, Calif: Stanford University Press, 2001.
-
 Kornicki, Peter. *Book in Japan: A Cultural History from the Beginnings to the Nineteenth Century.* Place of publication not identified: Univ Of Hawai'I Press, 2016.
 
 Koschmann, J. Victor. *Revolution and Subjectivity in Postwar Japan*. Chicago: University of Chicago Press, 1996.
@@ -598,6 +604,8 @@ Kwong, Luke S. K. 'The Rise of the Linear Perspective on History and Time in Lat
 Ladurie, Emmanuel LeRoy. 'Motionless History'. *Social Science History* Vol. 1, No. 2 (1977): 115--36.
 
 Lan, Feng. 'The Female Individual and the Empire: A Historicist Approach to Mulan and Kingston's Woman Warrior'. *Comparative Literature* 55, no. 3 (2003): 229--45. <https://doi.org/10.2307/4125407>.
+
+Lanza, Fabio. *The End of Concern: Maoist China, Activism, and Asian Studies*. Duke University Press, 2017.
 
 Ledyard, Gari. 'Korean Travelers in China over Four Hundred Years, 1488-1887'. *Occasional Papers on Korea*, no. 2 (1974): 1--42.
 
@@ -1041,7 +1049,7 @@ Tian, Xiaofei. 'Remaking History: The Shu and Wu Perspectives in the Three Kingd
 
 ---------. *The Halberd at Red Cliff: Jian'an and the Three Kingdoms*. Harvard University Asia Center, 2018.
 
-TINIOS, ELLIS. 'Sure Guidance for One's Own Time: Pan Ku and the Tsan to "Han Shu" 94'. *Early China* 9/10 (1983): 184--203.
+Tinios, Ellis. 'Sure Guidance for One's Own Time: Pan Ku and the Tsan to "Han Shu" 94'. *Early China* 9/10 (1983): 184--203.
 
 Togo, Kazuhiko. *Japan and Reconciliation in Post-War Asia: The Murayama Statement and Its Implications*. Palgrave Macmillan, 2013.
 
@@ -1214,7 +1222,7 @@ Zhi, Chen. 'From Exclusive Xia to Inclusive Zhu-Xia: The Conceptualisation of Ch
 Zurndorfer, Harriet Thelma. *Chinese Women in the Imperial Past: New Perspectives*. BRILL, 1998.
 
 
-## **Key Translations of Historical Works**
+## **2. Translations of Key Historical Works**
 
 *Shujing / Shang Shu* (The Book of History / The Book of Documents)
 
